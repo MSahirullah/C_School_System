@@ -1,0 +1,1 @@
+This is README file of School System Project 
