@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1600186956 source:c:\users\sahirullah\desktop\school system\school_system\login_function.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1601848002 source:c:\users\sahirullah\desktop\school system\school_system\main_function.c
+	<stdio.h>
+
+1601876034 source:c:\users\sahirullah\desktop\school system\school_system\menu_function.c
+	<stdio.h>
+
+1601845913 source:c:\users\sahirullah\desktop\school system\school_system\task_a_function.c
+	<stdio.h>
+
+1601806737 source:c:\users\sahirullah\desktop\school system\school_system\task_b_function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<ctype.h>
+
+1601876035 source:c:\users\sahirullah\desktop\school system\school_system\task_c_function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<ctype.h>
+
+1601876781 source:c:\users\sahirullah\desktop\school system\school_system\task_d_function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<ctype.h>
+
+1601845827 source:c:\users\sahirullah\desktop\school system\school_system\task_e_function.c
+	<stdio.h>
+
+1600186956 source:c:\users\sahirullah\desktop\school system\school_system\task_s_function.c
+	<stdio.h>
+
+1601848002 source:d:\campus files\assigments\team codenest\school system\group_1_codenest\main_function.c
+	<stdio.h>
+
+1601876034 source:d:\campus files\assigments\team codenest\school system\group_1_codenest\menu_function.c
+	<stdio.h>
+
+1601877100 source:d:\campus files\assigments\team codenest\school system\group_1_codenest\task_a_function.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1601806737 source:d:\campus files\assigments\team codenest\school system\group_1_codenest\task_b_function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<ctype.h>
+
+1601876035 source:d:\campus files\assigments\team codenest\school system\group_1_codenest\task_c_function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<ctype.h>
+
+1601876781 source:d:\campus files\assigments\team codenest\school system\group_1_codenest\task_d_function.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<ctype.h>
+
+1601845827 source:d:\campus files\assigments\team codenest\school system\group_1_codenest\task_e_function.c
+	<stdio.h>
+

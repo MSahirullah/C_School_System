@@ -1,0 +1,15 @@
+--- Results of Term Tests and Ranking the Students ---
+
+
+First Term Test - 2020
+Grade : 1 - A
+
+Index No.       |Student Name                  |Religion           |Language           |English            |Maths              |Environment        |Total marks        |Average            |Rank               
+----------------|------------------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|-------------------|---------------
+0001            |Sopia_Jackson                 |78                 |85                 |78                 |78                 |68                 |387                |77.40              |1                  
+0002            |Emma_Aiden                    |98                 |78                 |57                 |58                 |78                 |369                |73.80              |2                  
+0003            |Olivia_Lucas                  |58                 |95                 |45                 |68                 |54                 |320                |64.00              |5                  
+0004            |Ava_Liam                      |78                 |75                 |65                 |78                 |25                 |321                |64.20              |4                  
+0005            |Mila_Noah                     |45                 |85                 |88                 |45                 |65                 |328                |65.60              |3                  
+
+

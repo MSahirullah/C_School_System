@@ -1,0 +1,29 @@
+--- Students' Details ---
+                                                                              
+Index No   | Name in Full           | DOB           | Age     | Grade  | class | Gender | Guardian name          | Adddress                          | Mobile Number  |
+=======================================================================================================================================================================
+0001       | Sopia_Jackson          | 2014.02.01    | 06      | 1      | A     | F      | Tom Jackson            | 142 Saxton Circle, Middle Village | +447868151461  |
+0002       | Emma_Aiden             | 2014.02.02    | 06      | 1      | A     | F      | Ann Aiden              | 419 Rockland Court, Hamilton      | +447868152462  |
+0003       | Olivia_Lucas           | 2014.03.03    | 06      | 1      | A     | F      | Lilly Lucas            | 8 High Street, Chandler           | +447868153463  |
+0004       | Ava_Liam               | 2014.04.04    | 06      | 1      | A     | M      | David Liam             | 183 Glenridge Ave, Marshfield     | +447868154464  |
+0005       | Mila_Noah              | 2014.05.05    | 06      | 1      | A     | M      | Paul Noah              | 9 Summit Street, Downers Grove    | +447868155464  |
+0006       | Jesusa_Owenby          | 2014.06.06    | 06      | 1      | B     | F      | Tom Owenby             | 926 Proctor St, Jeffersonville    | +447868156465  |
+0007       | Lisa_Hurley            | 2014.07.07    | 06      | 1      | B     | F      | Vikki Hurley           | 598 Bay Meadows Court, Hamden     | +447868157466  |
+0008       | Alisa_Hallock          | 2014.08.08    | 06      | 1      | B     | F      | David Hallock          | 264 Howard Ave, South Windsor     | +447868834676  |
+0009       | Roselle_Raphael        | 2014.08.09    | 06      | 1      | B     | M      | Sanford Raphael        | 341 Beacon Street, Hudsonville    | +4478683135688 |
+0010       | John_Ingerson          | 2014.07.10    | 06      | 1      | B     | M      | Larissa Ingerson       | 43 William Ave, Salisbury         | +447868134368  |
+0011       | Larissa_Aubry          | 2014.06.11    | 06      | 1      | C     | F      | Emma Aubry             | 15 Whitemarsh Lane, Warminster    | +447868139468  |
+0012       | Sanford_Dora           | 2014.12.12    | 05      | 1      | C     | F      | Zennia Dora            | 90 W. University St, Voorhees     | +447868132428  |
+0013       | Rodolfo_Tempel         | 2014.12.13    | 05      | 1      | C     | M      | Pete Tempel            | 6 North Thatcher Ave, Menasha     | +447233157468  | 
+0014       | Freddie_Hallock        | 2014.11.14    | 05      | 1      | C     | M      | John Hallock           | 121 Gates Lane, Rowlett           | +447868546468  |
+0015       | Vikki_Ruckman          | 2014.02.15    | 06      | 1      | C     | M      | Roselle Ruckman        | 5 Pennsylvania Ave, Pompano       | +447823425468  |
+0016       | Zenia_Dease            | 2014.06.16    | 06      | 1      | D     | F      | Lena Dease             | 620 Courtland St, Mankato         | +447823423468  |
+0017       | Pete_Packett           | 2014.08.17    | 06      | 1      | D     | M      | Jesusa Packett         | 455 Ramblewood Ave, Randolph      | +447868152423  |
+0018       | Lena_Smith             | 2014.07.18    | 06      | 1      | D     | M      | Aiden Smith            | 902 Edgewood Ave, Omaha           | +447868123468  |
+0019       | Nicol_Green            | 2014.08.19    | 06      | 1      | D     | M      | Alen Green             | 380 N. Green Street, Huntley      | +447868123468  |
+0020       | Tom_Taylor             | 2014.08.20    | 06      | 1      | D     | M      | Paul Taylor            | 8026 Elmwood Road, Lagrange       | +447868154234  |
+0021       | Paul_Miller            | 2013.10.21    | 06      | 2      | A     | M      | Lena Miller            | 8446 Colonial Street, TW Falls    | +447868155478  |
+0022       | Alen_Lee               | 2013.11.22    | 06      | 2      | A     | M      | Larissa Lee            | 40 Del Monte Circle, Omaha        | +447868153456  |
+0023       | Lilly_Smith            | 2013.12.23    | 06      | 2      | A     | F      | Sanford Smith          | 92 Pheasant Court, Trenton        | +447868154436  |
+0024       | David_potter           | 2013.07.24    | 07      | 2      | A     | M      | Alisa Potter           | 150 Gates Lane, Rowlett           | +447868153453  |
+0025       | Ann_Whitaker           | 2013.02.25    | 07      | 2      | A     | F      | Tom Whitaker           | 10 High Street, Chandler          | +447868156415  |
